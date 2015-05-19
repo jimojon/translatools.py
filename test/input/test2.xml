@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<data>
+  <A>Stéphanie</A>
+  <B>Philipe</B>
+  <C>
+    <value>Björn</value>
+    <value>Arthur</value>
+    <value>Victor</value>
+  </C>
+  <D>Herbert</D>
+</data>
